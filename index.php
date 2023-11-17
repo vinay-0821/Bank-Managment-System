@@ -111,7 +111,7 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
       </div>
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/contacts.gif" alt="Card image cap" style="max-height: 155px;min-height: 155px">
+          <img class="card-img-top" src="images/contact.jpg" alt="Card image cap" style="max-height: 155px;min-height: 155px">
         <div class="card-body">
           <a href="feedback.php" class="btn btn-outline-info btn-block">Contact Us</a>
          </div>
