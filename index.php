@@ -61,7 +61,7 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
         <div id="carouselExampleIndicators" class="carousel slide my-2 rounded-1 shadowBlack" data-ride="carousel" >
           <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="images/1.jpg" alt="First slide" style="max-height: 250px">
+            <img class="d-block w-150" src="images/virat.jpg" alt="First slide" style="max-height: 350px">
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="images/2.jpg" alt="Second slide" style="max-height: 250px">
@@ -81,11 +81,18 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
         </a>
       </div>
   </div>
+  <!-- <div class="container">
+  <div class="my-2 rounded-1 shadowBlack">
+    <img class="d-block w-100" src="images/adv_1.jpg" alt="Your Image" style="max-height: 250px">
+  </div>
+<br>
+<br>
+<br> -->
 <div class="col">
     <div class="row" style="padding: 22px;padding-top: 0">
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/4310155.png" style="max-height: 155px;min-height: 155px" alt="Card image cap">
+          <img class="card-img-top" src="images/4310155.png" style="max-height: 249px;min-height: 187px" alt="Card image cap">
           <div class="card-body">
             <a href="accounts.php" class="btn btn-outline-info btn-block">Account Summary</a>
           </div>
