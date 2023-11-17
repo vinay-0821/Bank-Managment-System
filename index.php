@@ -85,7 +85,7 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
     <div class="row" style="padding: 22px;padding-top: 0">
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/acount.jpg" style="max-height: 155px;min-height: 155px" alt="Card image cap">
+          <img class="card-img-top" src="images/4310155.png" style="max-height: 155px;min-height: 155px" alt="Card image cap">
           <div class="card-body">
             <a href="accounts.php" class="btn btn-outline-info btn-block">Account Summary</a>
           </div>
@@ -103,7 +103,7 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
     <div class="row" style="padding: 22px">
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/bell.gif" style="max-height: 155px;min-height: 155px" alt="Card image cap">
+          <img class="card-img-top" src="images/noti.jpg" style="max-height: 155px;min-height: 155px" alt="Card image cap">
           <div class="card-body">
             <a href="notice.php" class="btn btn-outline-info btn-block">Check Notification</a>
           </div>
