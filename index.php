@@ -93,7 +93,7 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
       </div>
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/transfer.jpg" alt="Card image cap" style="max-height: 155px;min-height: 155px">
+          <img class="card-img-top" src="images/3d-render-money-transfer-mobile-banking-online.jpg" alt="Card image cap" style="max-height: 155px;min-height: 155px">
         <div class="card-body">
           <a href="transfer.php" class="btn btn-outline-info btn-block">Transfer Money</a>
          </div>
