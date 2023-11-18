@@ -83,7 +83,7 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
   </div>
   <!-- <div class="container">
   <div class="my-2 rounded-1 shadowBlack">
-    <img class="d-block w-100" src="images/adv_1.jpg" alt="Your Image" style="max-height: 250px">
+    <img class="d-block w-150" src="images/adv_1.jpg" alt="Your Image" style="max-height: 350px">
   </div>
 <br>
 <br>
