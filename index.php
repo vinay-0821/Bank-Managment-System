@@ -61,13 +61,13 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
         <div id="carouselExampleIndicators" class="carousel slide my-2 rounded-1 shadowBlack" data-ride="carousel" >
           <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="images/virat.jpg" alt="First slide" style="max-height: 350px">
+            <img class="d-block w-100" src="images/virat.jpg" alt="First slide" style="max-height: 400px">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="images/2.jpg" alt="Second slide" style="max-height: 350px">
+            <img class="d-block w-100" src="images/cromaad.png" alt="Second slide" style="max-height: 400px">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="images/3.jpg" alt="Third slide" style="max-height:  350px">
+            <img class="d-block w-100" src="images/ad central (1).png" alt="Third slide" style="max-height: 400px">
           </div>
 
         </div>
@@ -89,10 +89,10 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
 <br>
 <br> -->
 <div class="col">
-    <div class="row" style="padding: 22px;padding-top: 0">
+    <div class="row" style="padding: 22px;padding-top: 2px">
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/4310155.png" style="max-height: 249px;min-height: 189px" alt="Card image cap">
+          <img class="card-img-top" src="images\personal-information.png" style="max-height: 256px;min-height: 286px" alt="Card image cap">
           <div class="card-body">
             <a href="accounts.php" class="btn btn-outline-info btn-block">Account Summary</a>
           </div>
@@ -100,17 +100,17 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
       </div>
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/3d-render-money-transfer-mobile-banking-online.jpg" alt="Card image cap" style="max-height: 249px;min-height: 189px">
+          <img class="card-img-top" src="images/3d-render-money-transfer-mobile-banking-online.jpg" alt="Card image cap" style="max-height: 256px;min-height: 286px">
         <div class="card-body">
           <a href="transfer.php" class="btn btn-outline-info btn-block">Transfer Money</a>
          </div>
         </div>
       </div>
     </div>
-    <div class="row" style="padding: 22px">
+    <div class="row" style="padding: 22px;padding-top: 8px">
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/ting.gif" style="max-height: 249px;min-height: 189px" alt="Card image cap">
+          <img class="card-img-top" src="images/ting.gif" style="max-height: 280px;min-height: 256px" alt="Card image cap">
           <div class="card-body">
             <a href="notice.php" class="btn btn-outline-info btn-block">Check Notification</a>
           </div>
@@ -118,7 +118,7 @@ if(!isset($_SESSION['userId'])){ header('location:login.php');}
       </div>
       <div class="col">
         <div class="card shadowBlack ">
-          <img class="card-img-top" src="images/contact.jpg" alt="Card image cap" style="max-height: 249px;min-height: 189px">
+          <img class="card-img-top" src="images/contact.jpg" alt="Card image cap" style="max-height: 280px;min-height: 256px">
         <div class="card-body">
           <a href="feedback.php" class="btn btn-outline-info btn-block">Contact Us</a>
          </div>

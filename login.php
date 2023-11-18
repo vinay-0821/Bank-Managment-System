@@ -80,7 +80,7 @@
         body {
             margin: 0;
             padding: 0;
-            background-image: url('images/NBc\ \(6\).gif'), url('images/NBc\ \(5\).gif');
+            background-image: url('images/ezgif.com-optimize.gif'), url('images/NBc\ \(5\).gif');
             background-repeat: no-repeat, no-repeat;
             background-size: 50%, 50%;
             background-position: left top, right top;
