@@ -51,7 +51,7 @@ if(!isset($_SESSION['managerId'])){ header('location:login.php');}
 <div class="container">
 <div class="card w-100 text-center shadowBlack">
   <div class="card-header">
-    Account profile for <?php echo $row['name'];echo "<kbd>#";echo $row['accountNo'];echo "</kbd>"; ?>
+    Account profile for <?php echo $row['name']; ?>
   </div>
   <div class="card-body">
     <table class="table table-bordered">

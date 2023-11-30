@@ -106,7 +106,7 @@ CREATE TABLE `notice` (
 
 INSERT INTO `notice` (`id`, `userId`, `notice`, `date`) VALUES
 (1, '1', 'Dear Customer! <br> OUr privacy policy is changed for account information get new prospectus from your nearest branch', '2017-12-14 13:11:46'),
-(6, '2', 'Dear Ali,<br>\r\nOur privacy policy has been changed please visit nearest <kbd> MCB </kbd> branch for new prospectus.', '2017-12-16 06:29:23');
+(6, '2', 'Dear Ali,<br>\r\nOur privacy policy has been changed please visit nearest <kbd> NBC </kbd> branch for new prospectus.', '2017-12-16 06:29:23');
 
 -- --------------------------------------------------------
 
