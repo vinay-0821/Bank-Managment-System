@@ -37,8 +37,8 @@ CREATE TABLE `branch` (
 --
 
 INSERT INTO `branch` (`branchId`, `branchNo`, `branchName`) VALUES
-(1, '100101', 'Dera Ghazi Khan'),
-(2, '100102', 'Multan');
+(1, '100101', 'Calicut'),
+(2, '100102', 'Kochi');
 
 -- --------------------------------------------------------
 
